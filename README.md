@@ -1,6 +1,10 @@
 ## nhentai_net
 nHentai.net Scraper and Downloader
-- Uses selenium and undetected_webdriver to scrape and download from nHentai.net
+Uses selenium and undetected_webdriver to scrape and download from nHentai.net
+
+### Installation
+- ``git clone https://github.com/Charlzk05/nhentai_net.git``
+- ``pip -r install requirements.txt``
 
 ### Examples
 - Download Manga(URL, Download_Path=None)
