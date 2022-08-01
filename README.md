@@ -1,6 +1,6 @@
 ## nhentai_net
 nHentai.net Scraper and Downloader
-- Uses selenium and undetected_webdriver to scrape nHentai.net
+- Uses selenium and undetected_webdriver to scrape and download from nHentai.net
 
 ### Examples
 - Download Manga(URL, Download_Path=None)
